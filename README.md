@@ -1,0 +1,1 @@
+# covg-kicad-lib
