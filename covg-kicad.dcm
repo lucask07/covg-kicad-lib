@@ -29,6 +29,11 @@ K analog switch  multiplexer SP8T
 F https://www.analog.com/media/en/technical-documentation/data-sheets/ADG1408_1409.pdf
 $ENDCMP
 #
+$CMP ADS8686SIPZAR
+D Analog to Digital Converters - ADC 16-channel 16-bit 1-MSPS dual simultaneous-sampling ADC with integrated analog front end (AFE)
+F https://www.ti.com/lit/gpn/ADS8686S
+$ENDCMP
+#
 $CMP DAC53401DSGR
 D Digital to Analog Converters - DAC 10-bit 1-channel DAC with NVM, buffered voltage output and I2C interface 8-WSON -40 to 125
 F http://www.ti.com/lit/ds/symlink/dac53401.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1589734386977
