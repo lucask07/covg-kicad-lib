@@ -51,6 +51,11 @@ K single opamp
 F http://www.ti.com/lit/ds/symlink/opa828.pdf
 $ENDCMP
 #
+$CMP OPA991S
+D 4.5MHz, Operational amplifier, 40V supply range, with shutdown, SOT-23-6
+F https://www.ti.com/lit/ds/symlink/opa991.pdf
+$ENDCMP
+#
 $CMP PCA9554
 D 8 Bit Port/Expander to I2C Bus, DIP/SOIC-16
 K I2C Expander
