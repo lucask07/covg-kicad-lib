@@ -45,6 +45,12 @@ K single opamp zero-drift
 F http://www.ti.com/lit/ds/symlink/opa188.pdf
 $ENDCMP
 #
+$CMP OPA325
+D 10 MHz, SOT-23-5
+K single opamp
+F https://www.ti.com/lit/ds/symlink/opa325.pdf?ts=1622090939582
+$ENDCMP
+#
 $CMP OPA828
 D Single JFET amplifier, 45 MHz GBW, RRO
 K single opamp
