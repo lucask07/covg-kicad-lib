@@ -1,5 +1,5 @@
-(module BU-SMA-G (layer F.Cu) (tedit 0)
-  (descr "FEMALE <b>SMA CONNECTOR</b><p>\nRadiall<p>\ndistributor RS 193-9117")
+(module BU-SMA-G (layer F.Cu) (tedit 60CC83E1)
+  (descr "FEMALE <b>SMA CONNECTOR</b><p>\rRadiall<p>\rdistributor RS 193-9117")
   (fp_text reference X8 (at -2.54 -4.445 -180) (layer F.SilkS)
     (effects (font (size 0.77216 0.77216) (thickness 0.14671)) (justify left bottom))
   )
@@ -65,4 +65,9 @@
     (solder_mask_margin 0.1016))
   (pad 5 thru_hole circle (at -2.5499 2.5499) (size 2.667 2.667) (drill 1.778) (layers *.Cu *.Mask)
     (solder_mask_margin 0.1016))
+  (model ${ALT3DMOD}/733910083.stp
+    (offset (xyz 24.5 0 10.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 180 0))
+  )
 )
