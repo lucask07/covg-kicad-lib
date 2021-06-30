@@ -74,4 +74,9 @@ K I2C Expander
 F http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf
 $ENDCMP
 #
+$CMP QWIIC_CONNECTORJS-1MM
+D SparkFun I<sup>2</sup>C Standard Qwiic Connector An SMD 1mm pitch JST connector makes it easy and quick (get it? Qwiic?) to connect I<sup>2</sup>C devices to each other. The <a href= http://www.sparkfun.com/qwiic >Qwiic system</a> enables fast and solderless connection between popular platforms and various sensors and actuators.<br><br>We carry <a href= https://www.sparkfun.com/products/14204 >200mm</a>, <a href= https://www.sparkfun.com/products/14205 >100mm</a>, <a href= https://www.sparkfun.com/products/14206 >50mm</a>, and <a href= https://www.sparkfun.com/products/14207 >breadboard friendly</a> Qwiic cables. We also offer <a href= https://www.sparkfun.com/products/14323 >10 pcs strips</a> the SMD connectors.
+K PROD_ID:XXX-00000
+$ENDCMP
+#
 #End Doc Library
